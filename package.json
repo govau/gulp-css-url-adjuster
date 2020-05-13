@@ -8,11 +8,11 @@
     "rework": "~1.0.1",
     "rework-plugin-url": "~1.0.1",
     "through2": "~1.0.0",
-    "gulp-util": "latest"
   },
 
   "devDependencies": {
-    "tap": "latest"
+    "tap": "latest",
+    "gulp-util": "latest"
   },
 
   "repository": {
